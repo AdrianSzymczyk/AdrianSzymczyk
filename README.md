@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Machine Learning development<br>
 🌱 I’m currently learning neural networks and google cloud<br>
-⚡ Fun fact I like running, next year I will hit a marathon
+⚡ Fun fact I like running, next year I will hit a marathon<br>
 📫 How to reach me: adiszymczyk@gmail.com
 
 
